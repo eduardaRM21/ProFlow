@@ -1,0 +1,25 @@
+<svg width="192" height="192" viewBox="0 0 192 192" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background circle -->
+  <circle cx="96" cy="96" r="88" fill="#16a34a" stroke="#15803d" stroke-width="4"/>
+  
+  <!-- Package/Box icon -->
+  <rect x="48" y="64" width="96" height="64" rx="8" fill="white" stroke="#15803d" stroke-width="3"/>
+  
+  <!-- Package details -->
+  <rect x="56" y="72" width="80" height="8" fill="#15803d"/>
+  <rect x="56" y="88" width="80" height="8" fill="#15803d"/>
+  <rect x="56" y="104" width="80" height="8" fill="#15803d"/>
+  
+  <!-- Barcode scanner lines -->
+  <rect x="72" y="120" width="2" height="16" fill="#16a34a"/>
+  <rect x="78" y="120" width="2" height="16" fill="#16a34a"/>
+  <rect x="84" y="120" width="2" height="16" fill="#16a34a"/>
+  <rect x="90" y="120" width="2" height="16" fill="#16a34a"/>
+  <rect x="96" y="120" width="2" height="16" fill="#16a34a"/>
+  <rect x="102" y="120" width="2" height="16" fill="#16a34a"/>
+  <rect x="108" y="120" width="2" height="16" fill="#16a34a"/>
+  <rect x="114" y="120" width="2" height="16" fill="#16a34a"/>
+  
+  <!-- Text "P" for Profarma -->
+  <text x="96" y="160" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="white">P</text>
+</svg> 

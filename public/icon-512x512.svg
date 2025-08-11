@@ -1,0 +1,28 @@
+<svg width="512" height="512" viewBox="0 0 512 512" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background circle -->
+  <circle cx="256" cy="256" r="240" fill="#16a34a" stroke="#15803d" stroke-width="8"/>
+  
+  <!-- Package/Box icon -->
+  <rect x="128" y="176" width="256" height="160" rx="16" fill="white" stroke="#15803d" stroke-width="6"/>
+  
+  <!-- Package details -->
+  <rect x="144" y="192" width="224" height="16" fill="#15803d"/>
+  <rect x="144" y="224" width="224" height="16" fill="#15803d"/>
+  <rect x="144" y="256" width="224" height="16" fill="#15803d"/>
+  <rect x="144" y="288" width="224" height="16" fill="#15803d"/>
+  
+  <!-- Barcode scanner lines -->
+  <rect x="192" y="320" width="4" height="32" fill="#16a34a"/>
+  <rect x="204" y="320" width="4" height="32" fill="#16a34a"/>
+  <rect x="216" y="320" width="4" height="32" fill="#16a34a"/>
+  <rect x="228" y="320" width="4" height="32" fill="#16a34a"/>
+  <rect x="240" y="320" width="4" height="32" fill="#16a34a"/>
+  <rect x="252" y="320" width="4" height="32" fill="#16a34a"/>
+  <rect x="264" y="320" width="4" height="32" fill="#16a34a"/>
+  <rect x="276" y="320" width="4" height="32" fill="#16a34a"/>
+  <rect x="288" y="320" width="4" height="32" fill="#16a34a"/>
+  <rect x="300" y="320" width="4" height="32" fill="#16a34a"/>
+  
+  <!-- Text "P" for Profarma -->
+  <text x="256" y="420" text-anchor="middle" font-family="Arial, sans-serif" font-size="64" font-weight="bold" fill="white">P</text>
+</svg> 
