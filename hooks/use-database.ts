@@ -14,6 +14,7 @@ import {
 import { EmbalagemService } from '@/lib/embalagem-service'
 import { testSupabaseConnection, getConnectionHealth } from '@/lib/supabase-client'
 import { LocalAuthService } from '@/lib/local-auth-service'
+import { DatabaseService } from '@/lib/database-service'
 
 // ---
 // Hook Genérico para localStorage
